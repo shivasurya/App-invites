@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I-visionblog</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_music">music</string>
+    <string name="title_activity_facebook">facebook</string>
+    <string name="facebook_app_id">493087414176412</string>
+</resources>
