@@ -1,4 +1,6 @@
 # App-invites
+
+[![Join the chat at https://gitter.im/shivasurya/App-invites](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shivasurya/App-invites?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Android App Example For Facebook App invite without Login,Which was Announced in F8 conference 2015,Facebook
 
 
