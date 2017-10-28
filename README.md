@@ -5,9 +5,6 @@ Android App Example For Facebook App invite without Login,Which was Announced in
 
 
 <h2> App invites For Android App</h2>
-<br />
-<hr />
-
 This is tutorial on inviting users via Android App,this feature was introduced in F8 conference by Facebook in 2015.
 
 <br />
